@@ -1,0 +1,22 @@
+{
+  "name": "properties-panel-custom-conditional-props",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@bpmn-io/properties-panel": "0.15.0",
+    "bpmn-js": "9.2.2",
+    "bpmn-js-properties-panel": "1.2.0",
+    "camunda-bpmn-moddle": "6.1.2",
+    "min-dash": "3.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
